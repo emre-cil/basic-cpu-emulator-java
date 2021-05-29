@@ -4,3 +4,4 @@ This program can compute the sum of the numbers according to memory size.
 ```run->  $ ./javac main.java```
 ```run->  $ ./java main program.txt```
 
+![Image of instructions](https://github.com/Kheseyroon/basic-CPU-emulator/blob/master/instructions.png)
