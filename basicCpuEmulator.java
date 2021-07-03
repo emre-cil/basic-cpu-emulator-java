@@ -1,7 +1,11 @@
-/**
+/*----------------------------------------------
  * @author kheseyroon
  * @since 09.06.2021
- */
+ * GitHub: https://github.com/Kheseyroon
+ * MIT license: Copyright 2020 Emre Cil
+ * To run -> javac basicCpuEmulator.java  
+          -> java basicCpuEmulator program.txt
+* ----------------------------------------------- */
 
 import java.io.File;
 import java.util.ArrayList;
